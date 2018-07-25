@@ -46,5 +46,5 @@
 		  
 **推导公式需要回顾的知识**
 
-		1、[多元微积分知识点总结](https://wenku.baidu.com/view/e06572607e21af45b307a82f.html?from=search)
+1、[多元微积分知识点总结](https://wenku.baidu.com/view/e06572607e21af45b307a82f.html?from=search)
 			重点在于， 链式法则， 以及求二元函数求极值问题
